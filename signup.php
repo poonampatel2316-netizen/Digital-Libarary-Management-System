@@ -25,7 +25,7 @@
     <form id="signup-form" method="post" action="process_signup.php">
         
         <div class="form-grid">
-            
+        
             
             <div class="input-group">
                 <input type="text" name="name" placeholder="Name" required>
